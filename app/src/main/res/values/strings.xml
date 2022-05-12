@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleProject</string>
+    <string name="ok">Okay</string>
+    <string name="no_data">there is no further data</string>
+</resources>
