@@ -5,6 +5,7 @@ object NetworkConstants {
 
     //EndPoints
     const val GET_USERS = "api/users"
+    const val CREATE_USER = "api/users"
 
     //PARAMS
     const val PAGE_NO = "page"
